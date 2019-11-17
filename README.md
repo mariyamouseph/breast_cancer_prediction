@@ -9,7 +9,7 @@ Data density plot to get the data distribution patten
 ![[alt text]](https://github.com/mariyamouseph/breast_cancer_prediction/blob/master/plots/density_plot.png)
 
 <br/><br/>
-Graphical representation attribute correlation and the diagonal suggests that the attributes are correlated with each other
+Graphical representation of the attribute correlation. The diagonal suggests that the attributes are correlated with each other
  
 ![[alt text]](https://github.com/mariyamouseph/breast_cancer_prediction/blob/master/plots/coorelation_plot.png)
 
@@ -27,6 +27,6 @@ Graphical representation attribute correlation and the diagonal suggests that th
  On standardizing dataset and tuning the algorithm an accuracy of **99.12%** is achieved.
  
  
- Note: For testing the accuracy the data is split in the ration 1:5, thereby 80% of data is trained and 20% of data is validated.
+ Note: For testing the accuracy the data is split in the ratio 1:5, thereby 80% of data is trained and 20% of data is validated.
  
  
